@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_ic_date.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/ic_date.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_tab_rounded.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/tab_rounded.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_incore_round_shape.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/incore_round_shape.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_activity_main2.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_background_btn_create.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/background_btn_create.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_ic_account.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/ic_account.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_background_input_empty.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/background_input_empty.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_fragment_maps.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/fragment_maps.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_rounded_shape.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/rounded_shape.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/raw_empty_box.json.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/raw/empty_box.json"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_background_search.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/background_search.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_ic_closeing.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/ic_closeing.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_ic_remove.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/ic_remove.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_activity_add_trip.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/activity_add_trip.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_styling.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/styling.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_fragment_profile.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_ic_delete.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_fragment_history.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/fragment_history.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/anim_bottom_to_top.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/anim/bottom_to_top.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_background_txt.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/background_txt.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_background.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/background.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_ic_lock.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_logo.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_logo2.jpeg.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/logo2.jpeg"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_ic_close.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/ic_close.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_ic_baseline_add.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/ic_baseline_add.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_layout_floating_widget.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/layout_floating_widget.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_ic_baseline_email_24.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_background_item_subject.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/background_item_subject.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_note_row_items.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/note_row_items.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_ic_event_note.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/ic_event_note.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_street.jpg.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/street.jpg"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_fragment_note.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/fragment_note.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_item_history_trip.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/item_history_trip.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_ic_edit.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_toolbar_background.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/toolbar_background.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_edit6.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/edit6.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_item_trip.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/item_trip.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_ic_user.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/ic_user.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_ic_time.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/ic_time.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_activity_edit_trip.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/activity_edit_trip.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable-v24_user_profile.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable-v24/user_profile.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_ic_baseline_login_24.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/ic_baseline_login_24.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_fab_layout.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/fab_layout.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_rectangle_shape.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/rectangle_shape.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_background_put_subject.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/background_put_subject.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_ic_baseline_send_24.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/ic_baseline_send_24.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_item_floating_note.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/item_floating_note.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_background_btn_cancel.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/background_btn_cancel.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_fragment_up_coming.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/fragment_up_coming.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_scroll_view_background.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/scroll_view_background.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_ic_tripe.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/ic_tripe.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_item_note.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/item_note.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_fragment_trips.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/fragment_trips.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_arrow_left.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/arrow_left.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_background_input_sel.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/background_input_sel.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_arrow_back.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/arrow_back.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_background_btn_login.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/background_btn_login.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/layout_activity_add_note.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/layout/activity_add_note.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_ic_search.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/build/intermediates/res/merged/debug/drawable_background_input_unsel.xml.flat",
+        "source": "/Users/abdelrahmanelnagdy/Desktop/iti Java Project/TicTacToeGame/TripReminderAndroid/app/src/main/res/drawable/background_input_unsel.xml"
+    }
+]

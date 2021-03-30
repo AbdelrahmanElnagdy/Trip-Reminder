@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">903500925718-ffa6iuo0fs0dpe0lk3ahi4cgbv3l4lrk.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://trip-reminder-4ceea-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">903500925718</string>
+    <string name="google_api_key" translatable="false">AIzaSyAmAyBdhJjtIw2q_7F6hpWBXEOllPrzl68</string>
+    <string name="google_app_id" translatable="false">1:903500925718:android:6fbb8de43659eff245de37</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAmAyBdhJjtIw2q_7F6hpWBXEOllPrzl68</string>
+    <string name="google_storage_bucket" translatable="false">trip-reminder-4ceea.appspot.com</string>
+    <string name="project_id" translatable="false">trip-reminder-4ceea</string>
+</resources>

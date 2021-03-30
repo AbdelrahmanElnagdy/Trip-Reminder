@@ -1,0 +1,151 @@
+com/example/tripreminder/helper/ViewPagerAdapter.java
+ com.example.tripreminder.helper.ViewPagerAdapter
+com/example/tripreminder/data/PlaceHolder.java
+ com.example.tripreminder.data.PlaceHolder
+com/example/tripreminder/adapter/HistoryAdapter.java
+ com.example.tripreminder.adapter.HistoryAdapter
+ com.example.tripreminder.adapter.HistoryAdapter$HistoryViewHolder
+ com.example.tripreminder.adapter.HistoryAdapter$OnItemClickListener
+com/example/tripreminder/ui/activities/dialog/DialogViewModelFactory.java
+ com.example.tripreminder.ui.activities.dialog.DialogViewModelFactory
+com/example/tripreminder/data/local/SharedPref.java
+ com.example.tripreminder.data.local.SharedPref
+com/example/tripreminder/ui/activities/MapsFragment.java
+ com.example.tripreminder.ui.activities.MapsFragment
+ com.example.tripreminder.ui.activities.MapsFragment$1
+com/example/tripreminder/ui/fragment/history/HistoryFragment.java
+ com.example.tripreminder.ui.fragment.history.HistoryFragment
+ com.example.tripreminder.ui.fragment.history.HistoryFragment$1
+com/example/tripreminder/helper/MyViewModelFactory.java
+ com.example.tripreminder.helper.MyViewModelFactory
+com/example/tripreminder/ui/fragment/profile/ProfileViewModelFactory.java
+ com.example.tripreminder.ui.fragment.profile.ProfileViewModelFactory
+com/example/tripreminder/ui/activities/addTrip/AddTripActivity.java
+ com.example.tripreminder.ui.activities.addTrip.AddTripActivity
+ com.example.tripreminder.ui.activities.addTrip.AddTripActivity$1
+ com.example.tripreminder.ui.activities.addTrip.AddTripActivity$2
+ com.example.tripreminder.ui.activities.addTrip.AddTripActivity$3
+ com.example.tripreminder.ui.activities.addTrip.AddTripActivity$4
+ com.example.tripreminder.ui.activities.addTrip.AddTripActivity$5
+com/example/tripreminder/ui/activities/dialog/DialogActivity.java
+ com.example.tripreminder.ui.activities.dialog.DialogActivity
+ com.example.tripreminder.ui.activities.dialog.DialogActivity$1
+ com.example.tripreminder.ui.activities.dialog.DialogActivity$2
+ com.example.tripreminder.ui.activities.dialog.DialogActivity$3
+ com.example.tripreminder.ui.activities.dialog.DialogActivity$4
+com/example/tripreminder/data/model/db/TripRepository.java
+ com.example.tripreminder.data.model.db.TripRepository
+com/example/tripreminder/adapter/HistoryNoteAdapter.java
+ com.example.tripreminder.adapter.HistoryNoteAdapter
+ com.example.tripreminder.adapter.HistoryNoteAdapter$NoteViewHolder
+com/example/tripreminder/ui/fragment/TripsFragment.java
+ com.example.tripreminder.ui.fragment.TripsFragment
+com/example/tripreminder/data/model/db/Trips.java
+ com.example.tripreminder.data.model.db.Trips
+com/example/tripreminder/ui/activities/Register.java
+ com.example.tripreminder.ui.activities.Register
+ com.example.tripreminder.ui.activities.Register$1
+ com.example.tripreminder.ui.activities.Register$1$1
+ com.example.tripreminder.ui.activities.Register$2
+com/example/tripreminder/data/services/UpWorkManager.java
+ com.example.tripreminder.data.services.UpWorkManager
+com/example/tripreminder/data/model/db/Converters.java
+ com.example.tripreminder.data.model.db.Converters
+ com.example.tripreminder.data.model.db.Converters$1
+com/example/tripreminder/adapter/NoteAdapter.java
+ com.example.tripreminder.adapter.NoteAdapter
+ com.example.tripreminder.adapter.NoteAdapter$NoteViewHolder
+ com.example.tripreminder.adapter.NoteAdapter$NoteViewHolder$1
+ com.example.tripreminder.adapter.NoteAdapter$OnItemClickListener
+com/example/tripreminder/BuildConfig.java
+ com.example.tripreminder.BuildConfig
+com/example/tripreminder/ui/fragment/profile/ProfileFragment.java
+ com.example.tripreminder.ui.fragment.profile.ProfileFragment
+ com.example.tripreminder.ui.fragment.profile.ProfileFragment$1
+ com.example.tripreminder.ui.fragment.profile.ProfileFragment$2
+ com.example.tripreminder.ui.fragment.profile.ProfileFragment$2$1
+com/example/tripreminder/data/model/db/Note.java
+ com.example.tripreminder.data.model.db.Note
+com/example/tripreminder/ui/fragment/upcoming/UpComingFragment.java
+ com.example.tripreminder.ui.fragment.upcoming.UpComingFragment
+ com.example.tripreminder.ui.fragment.upcoming.UpComingFragment$1
+ com.example.tripreminder.ui.fragment.upcoming.UpComingFragment$2
+ com.example.tripreminder.ui.fragment.upcoming.UpComingFragment$3
+com/example/tripreminder/ui/activities/addNote/AddNoteViewModel.java
+ com.example.tripreminder.ui.activities.addNote.AddNoteViewModel
+com/example/tripreminder/ui/activities/addTrip/AddTripViewModelFactory.java
+ com.example.tripreminder.ui.activities.addTrip.AddTripViewModelFactory
+com/example/tripreminder/ui/fragment/upcoming/UpComingViewModel.java
+ com.example.tripreminder.ui.fragment.upcoming.UpComingViewModel
+com/example/tripreminder/ui/activities/editTrip/EditTripActivity.java
+ com.example.tripreminder.ui.activities.editTrip.EditTripActivity
+ com.example.tripreminder.ui.activities.editTrip.EditTripActivity$1
+ com.example.tripreminder.ui.activities.editTrip.EditTripActivity$2
+ com.example.tripreminder.ui.activities.editTrip.EditTripActivity$3
+com/example/tripreminder/ui/activities/addNote/AddNoteActivity.java
+ com.example.tripreminder.ui.activities.addNote.AddNoteActivity
+ com.example.tripreminder.ui.activities.addNote.AddNoteActivity$1
+ com.example.tripreminder.ui.activities.addNote.AddNoteActivity$2
+ com.example.tripreminder.ui.activities.addNote.AddNoteActivity$3
+ com.example.tripreminder.ui.activities.addNote.AddNoteActivity$4
+ com.example.tripreminder.ui.activities.addNote.AddNoteActivity$5
+com/example/tripreminder/adapter/UPComingAdapter.java
+ com.example.tripreminder.adapter.UPComingAdapter
+ com.example.tripreminder.adapter.UPComingAdapter$OnItemClickListener
+ com.example.tripreminder.adapter.UPComingAdapter$UPComingViewHolder
+ com.example.tripreminder.adapter.UPComingAdapter$UPComingViewHolder$1
+ com.example.tripreminder.adapter.UPComingAdapter$UPComingViewHolder$2
+ com.example.tripreminder.adapter.UPComingAdapter$UPComingViewHolder$3
+com/example/tripreminder/ui/activities/LoginActivity.java
+ com.example.tripreminder.ui.activities.LoginActivity
+ com.example.tripreminder.ui.activities.LoginActivity$1
+ com.example.tripreminder.ui.activities.LoginActivity$2
+ com.example.tripreminder.ui.activities.LoginActivity$3
+ com.example.tripreminder.ui.activities.LoginActivity$4
+ com.example.tripreminder.ui.activities.LoginActivity$5
+com/example/tripreminder/data/model/User.java
+ com.example.tripreminder.data.model.User
+com/example/tripreminder/data/services/DialogReceiver.java
+ com.example.tripreminder.data.services.DialogReceiver
+com/example/tripreminder/ui/activities/editTrip/EditTripViewModel.java
+ com.example.tripreminder.ui.activities.editTrip.EditTripViewModel
+com/example/tripreminder/ui/fragment/history/HistoryViewModelFactory.java
+ com.example.tripreminder.ui.fragment.history.HistoryViewModelFactory
+com/example/tripreminder/ui/fragment/history/HistoryViewModel.java
+ com.example.tripreminder.ui.fragment.history.HistoryViewModel
+com/example/tripreminder/ui/activities/editTrip/EditTripViewModelFactory.java
+ com.example.tripreminder.ui.activities.editTrip.EditTripViewModelFactory
+com/example/tripreminder/data/model/db/TripRoomDatabase.java
+ com.example.tripreminder.data.model.db.TripRoomDatabase
+com/example/tripreminder/ui/activities/addTrip/AddTripViewModel.java
+ com.example.tripreminder.ui.activities.addTrip.AddTripViewModel
+com/example/tripreminder/ui/PlaceHolder.java
+ com.example.tripreminder.ui.PlaceHolder
+com/example/tripreminder/ui/activities/dialog/DialogViewModel.java
+ com.example.tripreminder.ui.activities.dialog.DialogViewModel
+com/example/tripreminder/MyApplication.java
+ com.example.tripreminder.MyApplication
+com/example/tripreminder/ui/activities/addNote/AddNoteViewModelFactory.java
+ com.example.tripreminder.ui.activities.addNote.AddNoteViewModelFactory
+com/example/tripreminder/data/model/db/TripDao.java
+ com.example.tripreminder.data.model.db.TripDao
+com/example/tripreminder/ui/activities/MainActivity.java
+ com.example.tripreminder.ui.activities.MainActivity
+com/example/tripreminder/ui/activities/FloatingViewService.java
+ com.example.tripreminder.ui.activities.FloatingViewService
+ com.example.tripreminder.ui.activities.FloatingViewService$1
+ com.example.tripreminder.ui.activities.FloatingViewService$2
+ com.example.tripreminder.ui.activities.FloatingViewService$3
+ com.example.tripreminder.ui.activities.FloatingViewService$4
+com/example/tripreminder/adapter/FloatingNoteAdapter.java
+ com.example.tripreminder.adapter.FloatingNoteAdapter
+ com.example.tripreminder.adapter.FloatingNoteAdapter$FloatingNoteViewHolder
+com/example/tripreminder/ui/fragment/profile/ProfileViewModel.java
+ com.example.tripreminder.ui.fragment.profile.ProfileViewModel
+com/example/tripreminder/ui/activities/SplashActivity.java
+ com.example.tripreminder.ui.activities.SplashActivity
+com/example/tripreminder/ui/fragment/history/NoteFragment.java
+ com.example.tripreminder.ui.fragment.history.NoteFragment
+ com.example.tripreminder.ui.fragment.history.NoteFragment$1
+com/example/tripreminder/data/model/db/Notes.java
+ com.example.tripreminder.data.model.db.Notes
